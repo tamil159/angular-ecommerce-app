@@ -11,8 +11,6 @@ export class App {
 
   cartCount = 0;
 
-  searchText = '';
-
   addToCart() {
     this.cartCount++;
   }
